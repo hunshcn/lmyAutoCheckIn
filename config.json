@@ -1,6 +1,9 @@
 {
     "username": "",
     "password": "",
-    "waitTime":5,
-    "checkClazzIds":["843CEC3D-067C-4D1F-9520-8381181B5357"]
+    "lat": "",
+    "lng": "",
+    "device_code": "9d9a8yra_3rrs_ooe0_3jdo_eaej0393jvox",
+    "class":[
+    ]
 }
